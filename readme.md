@@ -56,22 +56,6 @@ Edit
 
 ---
 
-## 📸 Preview
-
-> *(Insert a screenshot or preview image here if available)*
-
----
-
-## 📬 Contact
-
-If you'd like to connect or collaborate, feel free to reach out!
-
-**Developer:** Al-Almin  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)  
-**Email:** your@email.com
-
----
-
 ## ✅ License
 
 This project is open-source and free to use for personal or educational purposes.
