@@ -43,13 +43,19 @@ header nav {
 
 header nav h1 {
     font-size: 34px;
-    color: #4E47FF;
     top: 60px;
     left: 0;
 }
-span {
-    color: #ff7300;
+.logo{
     font-weight: bold;
+    color: #4E47FF;
+
+}
+.logo span {
+    color: #ff7300;
+    border-top: 3px solid #ff7300;
+    border-bottom: 3px solid #ff7300;
+    padding: 0 5px;
 }
 
 .btn {
@@ -75,6 +81,10 @@ header img {
     max-height: 690px;
     height: auto;
     object-fit: cover;
+}
+
+.spacer {
+  height: 60px;
 }
 
 .hero-area{
@@ -325,6 +335,9 @@ form button {
     color: #008cff;
     margin-bottom: 10px;
 }
+.footer-area h1 span {
+    color: #ff7300;
+}
 .footer-area p {
     font-size: 15px;
     color: #808080;
@@ -346,6 +359,6 @@ form button {
     font-weight: 500;
 }
 .footer-links a:hover {
-    color: #00b3ff;
+    color: #ff7300;
     transition: 0.3s;
 }
