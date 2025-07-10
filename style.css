@@ -92,7 +92,6 @@ header img {
     align-items: center;
     padding: 0 5%;
     margin-bottom: 50px;
-    /* background-color: brown; */
     height: 330px;
     z-index: 2;
 } 
@@ -114,5 +113,39 @@ header img {
 }
 .action-img img {
     border-radius: 48px;
+}
+
+.users-info {
+    width: 80%;
+    height: 300px;
+    background-color: #e0e9ff;
+    margin: 0 auto;
+    border-radius: 48px;
     text-align: center;
+    padding: 50px 0;
+}
+.user-text h1{
+    font-size: 38px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 20px;
+}
+.user-amount {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.user-amount div {
+    text-align: center;
+}
+.user-amount h1 {
+    font-size: 80px;
+    color: #4E47FF;
+    font-weight: bold;
+}
+.user-amount p {
+    font-size: 20px;
+    color: #808080;
+    font-weight: 400;
 }
