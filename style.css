@@ -86,3 +86,33 @@ header img {
     font-weight: bold;
 }
 
+.action{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 5%;
+    margin-bottom: 50px;
+    /* background-color: brown; */
+    height: 330px;
+    z-index: 2;
+} 
+.action-text {
+    width: 50%;
+    text-align: left;
+}
+.action-text h3 {
+    font-size: 42px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.action-text p {
+    font-size: 24px;
+    color: #808080;
+    margin-bottom: 30px;
+    width: 60%;
+    font-weight: 300;
+}
+.action-img img {
+    border-radius: 48px;
+    text-align: center;
+}
